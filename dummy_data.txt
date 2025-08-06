@@ -1,0 +1,19 @@
+title: Modern Apartment in Mumbai,
+location: Mumbai, Maharashtra,
+price: 12000000,
+type: Apartment,
+description: Spacious 3BHK apartment near the city center with sea view.
+,
+
+title: Luxury Villa in Goa,
+location: Panaji, Goa,
+price: 25000000,
+type: Villa,
+description: A beachside villa with 4 bedrooms, pool, and large garden.
+,
+
+title: Affordable 2BHK in Pune,
+location: Pune, Maharashtra,
+price: 7500000,
+type: Apartment,
+description: Well-connected 2BHK perfect for working professionals.
